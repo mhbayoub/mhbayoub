@@ -1,39 +1,33 @@
-<h2 align="center">Hi, I'm Ayoub MEHBALI</h2>
+# 👋 Hi, I'm Ayoub Mehbali  
 
-<div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&size=18&lines=Meteorologist+Developper%20@%20MeteoAlgerie'/>
-</div>
+🌍 **Meteorologist Developer @ Meteo Algeria**  
+🔭 Working on **Numerical Weather Prediction (NWP) Models**  
+🌱 Exploring **atmospheric physics** & **operational development**  
+💻 Passionate about **programming, IT, and scientific computing**  
+🌪️ Focused on improving **dust modeling & forecasting systems**  
+👯 **Open to collaborate on:** Enhancing dust emission schemes, transport modeling, and forecast verification  
+⚡ *Fun fact: I’m a meteorological engineer who codes almost as much as I forecast!*  
 
-## **ABOUT ME**
+---
 
-- 🔭 I’m currently working as **Numerical Weather Prediction Models developper** at **Meteo-Algeria**
-- 🌱 I’m currently working on **Physics** also on ****Operationnel developpement****
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/mhbayoub?tab=repositories)
-- ⚡ Fun fact is am **a Meteorological Engineer with big passion for programming and IT developpement .**
-
-
-
-
-
-## **CODING STATS**
-
-<p align = 'center'>
-    <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=mhbayoub&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhbayoub&show_icons=true&theme=gotham&line_height=27&hide_border=true&layout=compact'/>
+## 🛠️ Skills & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HPC-00599C?style=for-the-badge&logo=superuser&logoColor=white" />
 </p>
 
-## **STREAK STATS**
+---
 
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=mhbayoub&theme=gotham&hide_border=true'>
-</p>
+## 🌍 About Me  
+- 🌪️ I work on **NWP models** to improve forecast accuracy  
+- 🏜️ My main interest: **dust storm modeling & prediction**  
+- 📊 I enjoy working with **weather datasets, verification scores, and visualization tools**  
+- 🤝 Always open to **collaborations on weather/climate projects**
 
-## **CONNECT WITH ME**:
+---
 
-<p align="left">
-<a href = "https://www.linkedin.com/in/ayoub-mehbali-6a4532326/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://www.instagram.com/ayoub_mhb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href='https://github.com/mhbayoub?tab=followers'>
-   <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/mhbayoub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
-<br>
-</a>
+> *“Turning weather data into insight and impact.”*
